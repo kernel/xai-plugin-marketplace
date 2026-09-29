@@ -405,6 +405,24 @@
         ]
       }
     },
+    "kernel": {
+      "sha": "5c7f0116be0815838d0f091830bf96995bc0d3ca",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "kernel",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "kernel-mcp",
+            "description": "Use Kernel cloud browsers through the Kernel MCP server — create stealth browser sessions, automate pages with Playwrig…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "22ab18dfb50a5d7e3bdcf471c14076a5534eae4e",
       "version": "0.0.190",
